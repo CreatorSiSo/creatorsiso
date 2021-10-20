@@ -1,4 +1,5 @@
-### //  TODO Add a proper README.md
+![](header.png)
+
 <!--
 **CreatorSiSo/creatorsiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### //  TODO Add a proper README ❗❗
+
+**🌍 [My Website](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)**
+**💡 [My Ideas](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)**
+**🛠 [Apps I Use](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)**
