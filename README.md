@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### //  TODO Add a proper README ❗❗
-
 **🌍 [My Website](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)**
 **💡 [My Ideas](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)**
 **🛠 [Apps I Use](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)**
+
+### //  TODO Add a proper README ❗❗
