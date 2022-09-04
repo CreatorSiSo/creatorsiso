@@ -25,7 +25,7 @@ lorem ipsum strange textispsum. Ullo periculum dramus de resum rof allo.
 
 **I am working with/in –**
 
-`🔷 VSCode`
+`📝 VSCode` `🧊 Blender`
 
 `🦀 Rust` `🧶 TypeScript` `🚀 Astro` `🦕 Deno` `🍵 Node.js`
 
@@ -35,7 +35,7 @@ lorem ipsum strange textispsum. Ullo periculum dramus de resum rof allo.
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
-`📖 Rym Lang` A programming language I am writing for my thesis in year 12.
+`📙 Rym Lang` A programming language I am writing for my thesis in year 12.
 
 <br>
 
@@ -43,7 +43,7 @@ lorem ipsum strange textispsum. Ullo periculum dramus de resum rof allo.
 
 `💡 Ideas` https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md
 
-`🛠 Tools I Use` https://github.com/CreatorSiSo/my-lists/blob/main/apps.md
+`🛠 My Tools` https://github.com/CreatorSiSo/my-lists/blob/main/apps.md
 
 
 [project:placeholder]: https://github.com/creatorsiso/placeholder
