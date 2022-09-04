@@ -1,6 +1,6 @@
+<!--
 ![](header.png)
 
-<!--
 **CreatorSiSo/creatorsiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🌍 [My Website](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)**
-**💡 [My Ideas](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)**
-**🛠 [Apps I Use](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)**
+# CreatorSiSo
 
-### //  TODO Add a proper README ❗❗
+Hello there 🖖,
+
+lorem ipsum strange textispsum. Ullo periculum dramus de resum rof allo.
+
+<br>
+
+**I am working with/in –**
+
+`🔷 VSCode`
+
+`🦀 Rust` `🧶 TypeScript` `🚀 Astro` `🦕 Deno` `🍵 Node.js`
+
+<br>
+
+**Open projects –**
+
+<!-- `🌍 My Website` https://www.creatorsiso.xyz -->
+
+`📖 Rym Lang` A programming language I am writing for my thesis in year 12.
+
+<br>
+
+**Other Stuff -**
+
+`💡 Ideas` https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md
+
+`🛠 Tools I Use` https://github.com/CreatorSiSo/my-lists/blob/main/apps.md
+
+
+[project:placeholder]: https://github.com/creatorsiso/placeholder
+[people:creatorsiso]: https://github.com/creatorsiso
