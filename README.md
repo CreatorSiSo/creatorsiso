@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# CreatorSiSo
+# Simon Sommer
 
-Hello there 🖖,
+Welcome stranger ✌️,
 
-lorem ipsum strange textispsum. Ullo periculum dramus de resum rof allo.
+```rust
+todo!("Finish profile README.md");
+```
 
 <br>
 
-**I am working with/in –**
+**I am working in / with –**
 
 `📝 VSCode` `🧊 Blender`
 
@@ -31,20 +33,19 @@ lorem ipsum strange textispsum. Ullo periculum dramus de resum rof allo.
 
 <br>
 
-**Open projects –**
+**Public projects –**
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
-`📙 Rym Lang` A programming language I am writing for my thesis in year 12.
+[`📙 Rym Lang`][project:rym] A programming language that I am writing for my class 12 paper.
 
 <br>
 
-**Other Stuff -**
+**Other Stuff –**
 
-`💡 Ideas` https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md
+[`💡 Ideas`](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)
+[`🛠 My Tools`](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)
 
-`🛠 My Tools` https://github.com/CreatorSiSo/my-lists/blob/main/apps.md
 
-
-[project:placeholder]: https://github.com/creatorsiso/placeholder
+[project:rym]: https://github.com/creatorsiso/rym
 [people:creatorsiso]: https://github.com/creatorsiso
