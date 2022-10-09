@@ -37,7 +37,7 @@ todo!("Finish profile README.md");
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
-[`📙 Rym Lang`][project:rym] A programming language that I am writing for my class 12 paper.
+[`📙 Rym Lang`][project:rym] A programming language that I am writing for my class 12 thesis.
 
 <br>
 
