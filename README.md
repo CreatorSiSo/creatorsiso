@@ -33,7 +33,7 @@ todo!("Finish profile README.md");
 
 <br>
 
-**Public projects –**
+**Active projects –**
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
