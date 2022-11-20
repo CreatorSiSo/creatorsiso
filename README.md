@@ -37,7 +37,9 @@ todo!("Finish profile README.md");
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
-[`📙 Rym Lang`][project:rym] A programming language that I am writing for my year 12 thesis.
+[`📙 Rym Lang`][project:rym] A programming language that I am writing for my year 12 thesis.<br/>
+[`🤖 Stringx`][project:stringx] Ease of use extension traits for Rust strings.<br/>
+[`🏗️ Annotate Snippets`][project:annotate_snippets_builder] Builder pattern abstraction for the annotate-snippets crate.<br/>
 
 <br>
 
@@ -48,4 +50,7 @@ todo!("Finish profile README.md");
 
 
 [project:rym]: https://github.com/creatorsiso/rym
+[project:stringx]: https://github.com/creatorsiso/stringx
+[project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
+
 [people:creatorsiso]: https://github.com/creatorsiso
