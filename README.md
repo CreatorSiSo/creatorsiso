@@ -17,19 +17,25 @@ Here are some ideas to get you started:
 
 # Simon Sommer
 
-Welcome stranger ✌️,
+Welcome ✌️,
 
 ```rust
 todo!("Finish profile README.md");
 ```
 
-<br>
+<br/>
 
 **I am working in / with –**
 
-`📝 VSCode` `🧊 Blender`
+`📝 VSCode` `🖌️ Figma` `🧊 Blender` `🦕 Deno` `🍵 Node.js`
 
-`🦀 Rust` `🧶 TypeScript` `🚀 Astro` `🦕 Deno` `🍵 Node.js`
+`🦀 Rust` `🧶 TypeScript`
+
+`🚀 Astro` `🐦 Bevy`
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorsiso&hide=javascript,html,css,scss&layout=compact&theme=dark&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -38,10 +44,10 @@ todo!("Finish profile README.md");
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
 [`📙 Rym Lang`][project:rym] A programming language that I am writing for my year 12 thesis.<br/>
-[`🤖 Stringx`][project:stringx] Ease of use extension traits for Rust strings.<br/>
-[`🏗️ Annotate Snippets`][project:annotate_snippets_builder] Builder pattern abstraction for the annotate-snippets crate.<br/>
+[`🤖 Stringx`][project:stringx] Usability extension traits for Rust strings.<br/>
+<!-- [`🏗️ Annotate Snippets`][project:annotate_snippets_builder] Builder pattern abstraction for the annotate-snippets crate.<br/> -->
 
-<br>
+<br/>
 
 **Other Stuff –**
 
