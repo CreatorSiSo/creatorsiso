@@ -35,7 +35,7 @@ todo!("Finish profile README.md");
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&theme=dark&langs_count=50&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&theme=dark&langs_count=40&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
