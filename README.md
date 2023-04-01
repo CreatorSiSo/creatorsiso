@@ -37,17 +37,17 @@ todo!("Finish profile README.md");
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=40&hide=tex,Jupyter Notebook&count_private=true&exclude_repo=dotfiles&theme=dark"
+    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=30&exclude_repo=term-paper-12,dotfiles&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=40&hide=tex,Jupyter Notebook&count_private=true&exclude_repo=dotfiles&theme=light"
+    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=30&exclude_repo=term-paper-12,dotfiles&theme=dark"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img />
 </picture>
 
-<br>
+<br/>
 
 **Active projects –**
 
