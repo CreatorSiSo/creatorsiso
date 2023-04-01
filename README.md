@@ -35,17 +35,7 @@ todo!("Finish profile README.md");
 
 <br/>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=30&exclude_repo=term-paper-12,dotfiles&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=30&exclude_repo=term-paper-12,dotfiles&theme=dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img />
-</picture>
+![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=30&exclude_repo=term-paper-12,dotfiles&theme=dark)
 
 <br/>
 
