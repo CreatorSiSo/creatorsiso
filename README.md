@@ -35,7 +35,17 @@ todo!("Finish profile README.md");
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&theme=dark&langs_count=40&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source 
+    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=40&hide=tex,Jupyter Notebook&count_private=true&exclude_repo=dotfiles&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=40&hide=tex,Jupyter Notebook&count_private=true&exclude_repo=dotfiles&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img />
+</picture>
 
 <br>
 
