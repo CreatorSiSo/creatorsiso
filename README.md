@@ -55,7 +55,7 @@ todo!("Finish profile README.md");
 [`💡 Ideas`](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)
 [`🛠 My Tools`](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)
 
-[project:rym]: https://github.com/creatorsiso/htwk-calendar
+[project:htwk-calendar]: https://github.com/creatorsiso/htwk-calendar
 [project:rym]: https://github.com/creatorsiso/rym
 [project:stringx]: https://github.com/creatorsiso/stringx
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
