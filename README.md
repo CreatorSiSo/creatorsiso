@@ -27,11 +27,11 @@ todo!("Finish profile README.md");
 
 **I am working in / with –**
 
-`📝 VSCode` `🖌️ Figma` `🧊 Blender` `🦕 Deno` `🍵 Node.js`
+`🧊 Blender` `📝 VSCode` `🖌️ Figma` `🦕 Deno` `🍵 Node.js`
 
 `🦀 Rust` `🧶 TypeScript`
 
-`🚀 Astro` `🐦 Bevy`
+`🚀 Astro` `🐦 Bevy` `Axum`
 
 <br/>
 
@@ -43,9 +43,10 @@ todo!("Finish profile README.md");
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
+[`🗓 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.<br/>
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.<br/>
-[`🤖 Stringx`][project:stringx] Usability extension traits for Rust strings.<br/>
-<!-- [`🏗️ Annotate Snippets`][project:annotate_snippets_builder] Builder pattern abstraction for the annotate-snippets crate.<br/> -->
+<!-- [`🤖 Stringx`][project:stringx] Usability extension traits for Rust strings.<br/>
+ [`🏗️ Annotate Snippets`][project:annotate_snippets_builder] Builder pattern abstraction for the annotate-snippets crate.<br/> -->
 
 <br/>
 
@@ -54,7 +55,7 @@ todo!("Finish profile README.md");
 [`💡 Ideas`](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)
 [`🛠 My Tools`](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)
 
-
+[project:rym]: https://github.com/creatorsiso/htwk-calendar
 [project:rym]: https://github.com/creatorsiso/rym
 [project:stringx]: https://github.com/creatorsiso/stringx
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
