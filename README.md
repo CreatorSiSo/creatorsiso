@@ -35,9 +35,10 @@ todo!("Finish profile README.md");
 
 <br/>
 
-![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&exclude_repo=dotfiles&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro,vue,cmake,just,procfile)
-
-![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Other%20languages&layout=compact&langs_count=10&hide=rust,c%2B%2B,c,typescript,javascript,go,zig,lua,shell,python)
+<p>
+    <img src="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&exclude_repo=dotfiles&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro,vue,cmake,just,procfile" hspace="10" >
+    <img src="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Other%20languages&layout=compact&langs_count=10&hide=rust,c%2B%2B,c,typescript,javascript,go,zig,lua,shell,python" hspace="10" >
+</p>
 
 <br/>
 
