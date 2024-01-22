@@ -27,9 +27,9 @@ todo!("Finish profile README.md");
 
 **I am working in / with –**
 
-`🧊 Blender` `📝 VSCode` `🖌️ Figma` `🦕 Deno` `🍵 Node.js`
+`🧊 Blender` `📝 VSCode` `🖌️ Figma`
 
-`🦀 Rust` `🧶 TypeScript`
+`🦀 Rust` `📛 C++` `🧶 TypeScript` `Bash` `🐍 Python`
 
 `🚀 Astro` `🐦 Bevy` `Axum`
 
