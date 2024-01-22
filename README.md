@@ -37,6 +37,8 @@ todo!("Finish profile README.md");
 
 ![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro)
 
+![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Other%20languages&layout=compact&langs_count=30&hide=rust,c%2B%2B,c,typescript,javascript,go,zig,lua,vue,shell)
+
 <br/>
 
 **Active projects –**
