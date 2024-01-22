@@ -31,13 +31,13 @@ todo!("Finish profile README.md");
 
 `🦀 Rust` `📛 C++` `🧶 TypeScript` `✨️ Bash` `🐍 Python`
 
-`🚀 Astro` `🐦 Bevy` `Axum`
+`🚀 Astro` `🐦 Bevy` `📨 Axum`
 
 <br/>
 
-![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro)
+![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro,vue,cmake,just)
 
-![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Other%20languages&layout=compact&langs_count=30&hide=rust,c%2B%2B,c,typescript,javascript,go,zig,lua,vue,shell)
+![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Other%20languages&layout=compact&langs_count=8&hide=rust,c%2B%2B,c,typescript,javascript,go,zig,lua,vue,shell,python)
 
 <br/>
 
