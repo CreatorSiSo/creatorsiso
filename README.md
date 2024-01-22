@@ -29,13 +29,13 @@ todo!("Finish profile README.md");
 
 `🧊 Blender` `📝 VSCode` `🖌️ Figma`
 
-`🦀 Rust` `📛 C++` `🧶 TypeScript` `Bash` `🐍 Python`
+`🦀 Rust` `📛 C++` `🧶 TypeScript` `✨️ Bash` `🐍 Python`
 
 `🚀 Astro` `🐦 Bevy` `Axum`
 
 <br/>
 
-![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&layout=compact&langs_count=30&exclude_repo=term-paper-12,dotfiles&theme=dark)
+![](https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=creatorsiso&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro)
 
 <br/>
 
