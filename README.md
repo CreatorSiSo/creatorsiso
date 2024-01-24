@@ -53,14 +53,17 @@ To me these are all have the same importance. (not sorted in a particular order)
 
 <br/>
 
-**Active projects –**
+**Active projects (Development) –**
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
-[`🗓 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.<br/>
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.<br/>
-<!-- [`🤖 Stringx`][project:stringx] Usability extension traits for Rust strings.<br/>
- [`🏗️ Annotate Snippets`][project:annotate_snippets_builder] Builder pattern abstraction for the annotate-snippets crate.<br/> -->
+
+<br/>
+
+**Active projects (Maintenance) –**
+
+[`🗓 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.<br/>
 
 <br/>
 
