@@ -23,6 +23,19 @@ Welcome ✌️,
 todo!("Finish profile README.md");
 ```
 
+I want to build software the you can love because it . . .
+
+- is performant
+- acknowledges that errors will happen
+  - display them nicely
+  - help users to understand them
+- has readable code
+- has documentation
+  - written
+  - examples
+
+To me these are all have the same importance. (not sorted in a particular order)
+
 <br/>
 
 **I am working in / with –**
