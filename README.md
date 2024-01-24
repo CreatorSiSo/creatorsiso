@@ -28,7 +28,7 @@ todo!("Finish profile README.md");
 - is well documentated
 - has readable code
 
-To me these all have the same importance. (not sorted in a particular order)
+All of these have the same importance to me. (not sorted in a particular order)
 
 <br/>
 
