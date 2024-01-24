@@ -29,10 +29,8 @@ I want to build software the you can love because it . . .
 - acknowledges that errors will happen
   - display them nicely
   - help users to understand them
+- is well documentated
 - has readable code
-- has documentation
-  - written
-  - examples
 
 To me these are all have the same importance. (not sorted in a particular order)
 
