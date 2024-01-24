@@ -1,8 +1,4 @@
 <!--
-![](header.png)
-
-**CreatorSiSo/creatorsiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,7 +19,7 @@ Welcome ✌️,
 todo!("Finish profile README.md");
 ```
 
-I want to build software the you can love because it . . .
+**I want to build software the you can love because it . . .**
 
 - is performant
 - acknowledges that errors will happen
@@ -57,15 +53,15 @@ To me these are all have the same importance. (not sorted in a particular order)
 
 <!-- `🌍 My Website` https://www.creatorsiso.xyz -->
 
-[`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.<br/>
+[`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.
 
-[`𝖀 Tiny Unicode`][project:tiny-unicode] Unicode C++ library that I am writing to learn how Unicode and especially UTF-8 work.<br/>
+[`𝖀 Tiny Unicode`][project:tiny-unicode] Unicode C++ library that I am writing to learn how Unicode and especially UTF-8 work.
 
 <br/>
 
 **Active projects (Maintenance) –**
 
-[`🗓 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.<br/>
+[`🗓 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.
 
 <br/>
 
