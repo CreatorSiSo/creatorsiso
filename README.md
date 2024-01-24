@@ -59,6 +59,8 @@ To me these are all have the same importance. (not sorted in a particular order)
 
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.<br/>
 
+[`𝖀 Tiny Unicode`][project:tiny-unicode] Unicode C++ library that I am writing to learn how Unicode and especially UTF-8 work.<br/>
+
 <br/>
 
 **Active projects (Maintenance) –**
@@ -75,6 +77,7 @@ To me these are all have the same importance. (not sorted in a particular order)
 [project:htwk-calendar]: https://github.com/creatorsiso/htwk-calendar
 [project:rym]: https://github.com/creatorsiso/rym
 [project:stringx]: https://github.com/creatorsiso/stringx
+[project:tiny-unicode]: https://github.com/creatorsiso/tiny-unicode
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
 
 [people:creatorsiso]: https://github.com/creatorsiso
