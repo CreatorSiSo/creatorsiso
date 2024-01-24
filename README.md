@@ -19,7 +19,7 @@ Welcome ✌️,
 todo!("Finish profile README.md");
 ```
 
-**I want to build software the you can love because it . . .**
+**I want to build software the you can love because it –**
 
 - is performant
 - acknowledges that errors will happen
