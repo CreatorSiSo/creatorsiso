@@ -67,7 +67,9 @@ All of these have the same importance to me. (not sorted in a particular order)
 
 **Finished projects –**
 
-[`🚦 HWP 02`][project:hwp-02] Lighting sequence for piece of music via an Arduino Nano, DMX and a CLI for remote control over USB. (University assignment)
+[`🖲 HWP 01`][project:hwp-01] __TODO__ (University assignment)
+
+[`🚦 HWP 02`][project:hwp-02] Lighting sequence for a piece of music using an Arduino Nano, DMX and a CLI for remote control via USB. (University assignment)
 
 <br/>
 
