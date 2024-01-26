@@ -65,6 +65,12 @@ All of these have the same importance to me. (not sorted in a particular order)
 
 <br/>
 
+**Finished projects –**
+
+[`🚦 HWP 02`][project:hwp-02] Lighting sequence for piece of music via an Arduino Nano, DMX and a CLI for remote control over USB. (University assignment)
+
+<br/>
+
 **Other Stuff –**
 
 [`💡 Ideas`](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)
@@ -75,5 +81,7 @@ All of these have the same importance to me. (not sorted in a particular order)
 [project:stringx]: https://github.com/creatorsiso/stringx
 [project:tiny-unicode]: https://github.com/creatorsiso/tiny-unicode
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
+[project:hwp-01]: https://github.com/CreatorSiSo/hwp-01
+[project:hwp-02]: https://github.com/CreatorSiSo/hwp-02
 
 [people:creatorsiso]: https://github.com/creatorsiso
