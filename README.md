@@ -34,11 +34,11 @@ All of these have the same importance to me. (not sorted in a particular order)
 
 **I am working in / with –**
 
-`🧊 Blender` `📝 VSCode` `🖌️ Figma`
+`🧊 Blender` `📝 VSCode` `🖌️ Figma`
 
-`🦀 Rust` `📛 C++` `🧶 TypeScript` `✨️ Bash` `🐍 Python`
+`🦀 Rust` `📛 C++` `🧶 TypeScript` `✨️ Bash` `🐍 Python`
 
-`🚀 Astro` `🐦 Bevy` `📨 Axum`
+`🚀 Astro` `🐦 Bevy` `📨 Axum`
 
 <br/>
 
