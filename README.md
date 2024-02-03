@@ -34,9 +34,9 @@ All of these have the same importance to me. (not sorted in a particular order)
 
 **I am working in / with –**
 
-`🧊 Blender` `📝 VSCode` `🖌️ Figma`
-
 `🦀 Rust` `📛 C++` `🧶 TypeScript` `✨️ Bash` `🐍 Python`
+
+`🧊 Blender` `📝 VSCode` `🖌️ Figma`
 
 `🚀 Astro` `🐦 Bevy` `📨 Axum`
 
