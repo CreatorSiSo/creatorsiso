@@ -23,10 +23,10 @@ todo!("Finish profile README.md");
 
 - is performant
 - acknowledges that errors will happen
-  - display them nicely
-  - help users to understand them
-- is well documentated
+  - displays them nicely
+  - helps users in understanding them
 - has readable code
+- is well documentated
 
 All of these have the same importance to me. (not sorted in a particular order)
 
