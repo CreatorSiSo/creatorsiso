@@ -28,8 +28,6 @@ todo!("Finish profile README.md");
 - has readable code
 - is well documentated
 
-All of these have the same importance to me. (not sorted in a particular order)
-
 <br/>
 
 **I am working in / with –**
