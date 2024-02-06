@@ -55,6 +55,8 @@ All of these have the same importance to me. (not sorted in a particular order)
 
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.
 
+[`🧮 Tiny Calc`][project:tiny-calc] Terminal calculator, I had to write as my final assignment for my first semester of uni.
+
 [`𝖀 Tiny Unicode`][project:tiny-unicode] Unicode C++ library that I am writing to learn how Unicode and especially UTF-8 work.
 
 <br/>
@@ -82,6 +84,7 @@ All of these have the same importance to me. (not sorted in a particular order)
 [project:rym]: https://github.com/creatorsiso/rym
 [project:stringx]: https://github.com/creatorsiso/stringx
 [project:tiny-unicode]: https://github.com/creatorsiso/tiny-unicode
+[project:tiny-calc]: https://github.com/creatorsiso/tiny-calc
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
 [project:hwp-01]: https://github.com/CreatorSiSo/hwp-01
 [project:hwp-02]: https://github.com/CreatorSiSo/hwp-02
