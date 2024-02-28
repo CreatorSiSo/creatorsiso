@@ -67,7 +67,7 @@ todo!("Finish profile README.md");
 
 **Finished projects –**
 
-[`📊 1BRC`][project:onebrc] Rust implementation for the One Billion Rows Challenge.
+[`📊 1BRC`][project:onebrc] Rust implementation of the One Billion Rows Challenge.
 
 [`🧮 Tiny Calc`][project:tiny-calc] Terminal calculator, I had to write as my final assignment for my first semester of uni.
 
