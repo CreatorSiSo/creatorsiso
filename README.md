@@ -71,9 +71,9 @@ todo!("Finish profile README.md");
 
 [`🧮 Tiny Calc`][project:tiny-calc] Terminal calculator, I had to write as my final assignment for my first semester of uni.
 
-[`☎️ HWP 01`][project:hwp-01] __TODO__ (University assignment)
+[`☎️ HWP 01`][project:hwp-01] Rust bindings and simple software for the b15f board.
 
-[`🥳 HWP 02`][project:hwp-02] Lighting sequence for a piece of music using an Arduino Nano, DMX and a CLI for remote control via USB. (University assignment)
+[`🥳 HWP 02`][project:hwp-02] Lighting sequence for a piece of music using an Arduino Nano, DMX and a CLI for remote control via USB.
 
 <br/>
 
