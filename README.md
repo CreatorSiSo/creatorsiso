@@ -53,36 +53,39 @@ todo!("Finish profile README.md");
 
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.
 
-[`🧮 Tiny Calc`][project:tiny-calc] Terminal calculator, I had to write as my final assignment for my first semester of uni.
-
-[`𝖀 Tiny Unicode`][project:tiny-unicode] Unicode C++ library that I am writing to learn how Unicode and especially UTF-8 work.
+[`🎴 HTWK Cards`][project:htwk-cards] Funny cards of our professors and others.
 
 <br/>
 
 **Active projects (Maintenance) –**
 
-[`🗓 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.
+[`📆 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.
 
 <br/>
 
 **Finished projects –**
 
-[`🖲 HWP 01`][project:hwp-01] __TODO__ (University assignment)
+[`📊 1BRC`][project:onebrc] Rust implementation for the One Billion Rows Challenge.
 
-[`🚦 HWP 02`][project:hwp-02] Lighting sequence for a piece of music using an Arduino Nano, DMX and a CLI for remote control via USB. (University assignment)
+[`🧮 Tiny Calc`][project:tiny-calc] Terminal calculator, I had to write as my final assignment for my first semester of uni.
+
+[`☎️ HWP 01`][project:hwp-01] __TODO__ (University assignment)
+
+[`🥳 HWP 02`][project:hwp-02] Lighting sequence for a piece of music using an Arduino Nano, DMX and a CLI for remote control via USB. (University assignment)
 
 <br/>
 
 **Other Stuff –**
 
 [`💡 Ideas`](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)
-[`🛠 My Tools`](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)
+[`🛠️ My Tools`](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)
 
 [project:htwk-calendar]: https://github.com/creatorsiso/htwk-calendar
+[project:htwk-cards]: https://github.com/creatorsiso/htwk-cards
 [project:rym]: https://github.com/creatorsiso/rym
 [project:stringx]: https://github.com/creatorsiso/stringx
-[project:tiny-unicode]: https://github.com/creatorsiso/tiny-unicode
 [project:tiny-calc]: https://github.com/creatorsiso/tiny-calc
+[project:onebrc]: https://github.com/creatorsiso/onebrc
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
 [project:hwp-01]: https://github.com/CreatorSiSo/hwp-01
 [project:hwp-02]: https://github.com/CreatorSiSo/hwp-02
