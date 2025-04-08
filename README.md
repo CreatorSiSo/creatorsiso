@@ -32,11 +32,11 @@ todo!("Finish profile README.md");
 
 **I am working in / with –**
 
-`🦀 Rust` `📛 C++` `☕️ Java` `🧶 TypeScript` `✨️ Bash` `🐍 Python`
+`🦀 Rust` `📛 C/C++` `🧶 JavaScript` `🐍 Python`
+
+`✨️ Graphics` `⚙️ Embedded`
 
 `🧊 Blender` `📝 VSCode` `🖌️ Figma`
-
-`🚀 Astro` `🐦 Bevy` `📨 Axum`
 
 <br/>
 
