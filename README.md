@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Nika Sommer
 
-Welcome ✌️,
+Heyy ✌️,
 
 ```rust
 todo!("Finish profile README.md");
@@ -32,11 +32,11 @@ todo!("Finish profile README.md");
 
 **I am working in / with –**
 
-`🦀 Rust` `📛 C/C++` `🧶 JavaScript` `🐍 Python`
+`🦀 Rust` `📛 C/C++` `🧩 Kotlin` `🧶 JavaScript` `🐍 Python`
 
 `✨️ Graphics` `⚙️ Embedded`
 
-`🧊 Blender` `📝 VSCode` `🖌️ Figma`
+`🧊 Blender` `🖌️ Figma`
 
 <br/>
 
