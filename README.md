@@ -61,8 +61,6 @@ todo!("Finish profile README.md");
 
 [`🌐 oertel-tietze.de`](https://oertel-tietze.de) Physiotherapy website.
 
-[`📆 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.
-
 <br/>
 
 **Finished projects –**
@@ -77,10 +75,9 @@ todo!("Finish profile README.md");
 
 <br/>
 
-**Other Stuff –**
+**Archived projects –**
 
-[`💡 Ideas`](https://github.com/CreatorSiSo/my-lists/blob/main/ideas.md)
-[`🛠️ My Tools`](https://github.com/CreatorSiSo/my-lists/blob/main/apps.md)
+[`📆 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.
 
 [project:htwk-calendar]: https://github.com/creatorsiso/htwk-calendar
 [project:htwk-cards]: https://github.com/creatorsiso/htwk-cards
