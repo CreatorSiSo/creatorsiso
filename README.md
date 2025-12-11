@@ -53,8 +53,6 @@ todo!("Finish profile README.md");
 
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.
 
-[`🎴 HTWK Cards`][project:htwk-cards] Funny cards of our professors and others.
-
 <br/>
 
 **Active projects (Maintenance) –**
@@ -80,7 +78,6 @@ todo!("Finish profile README.md");
 [`📆 HTWK Calendar`][project:htwk-calendar] Custom calendar that nicely displays scraped events for one seminar group.
 
 [project:htwk-calendar]: https://github.com/creatorsiso/htwk-calendar
-[project:htwk-cards]: https://github.com/creatorsiso/htwk-cards
 [project:rym]: https://github.com/creatorsiso/rym
 [project:stringx]: https://github.com/creatorsiso/stringx
 [project:tiny-calc]: https://github.com/creatorsiso/tiny-calc
