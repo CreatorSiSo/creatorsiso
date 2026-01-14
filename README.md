@@ -71,7 +71,9 @@ Heyy ✌️,
 
 [`📊 1BRC`][project:onebrc] Rust implementation of the One Billion Rows Challenge.
 
- [`🎮 Embedded Tetris`][project:embedded-tetris] Tetris Clone/Console running on an esp32s3. 
+[`🎮 Embedded Tetris`][project:embedded-tetris] Tetris Clone/Console running on an esp32s3.
+
+[`🕓 Binary Clock`][project:binary-clock] Software for a small binary clock running on an atmega48 and a custom circuit. 
 
 [`🧮 Tiny Calc`][project:tiny-calc] Terminal calculator, I had to write as my final assignment for my first semester of uni.
 
@@ -95,6 +97,7 @@ Heyy ✌️,
 [project:tiny-calc]: https://github.com/creatorsiso/tiny-calc
 [project:onebrc]: https://github.com/creatorsiso/onebrc
 [project:embedded-tetris]: https://github.com/creatorsiso/embedded-tetris
+[project:binary-clock]: https://github.com/creatorsiso/binary-clock
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
 [project:hwp-01]: https://github.com/CreatorSiSo/hwp-01
 [project:hwp-02]: https://github.com/CreatorSiSo/hwp-02
