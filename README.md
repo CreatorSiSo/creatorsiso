@@ -79,6 +79,8 @@ Heyy ✌️,
 
 [`🥳 HWP 02`][project:hwp-02] Lighting sequence for a piece of music using an Arduino Nano, DMX and a CLI for remote control via USB.
 
+[`🧪 Reactive Java`][project:reactive-java] A tiny exploration on how reactive user interface frameworks are made.
+
 <br/>
 
 **Archived projects –**
@@ -96,5 +98,6 @@ Heyy ✌️,
 [project:annotate_snippets_builder]: https://github.com/creatorsiso/annotate_snippets_builder
 [project:hwp-01]: https://github.com/CreatorSiSo/hwp-01
 [project:hwp-02]: https://github.com/CreatorSiSo/hwp-02
+[project:reactive-java]: https://github.com/CreatorSiSo/reactive-java
 
 [people:creatorsiso]: https://github.com/creatorsiso
