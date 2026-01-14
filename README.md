@@ -26,7 +26,8 @@ todo!("Finish profile README.md");
   - displays them nicely
   - helps users in understanding them
 - has readable code
-- is well documentated
+- is well documentated (really have to work on this...)
+- ✨️ looks nice ✨️
 
 <br/>
 
