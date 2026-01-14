@@ -53,6 +53,8 @@ todo!("Finish profile README.md");
 
 [`📙 Rym Lang`][project:rym] Programming language I started to write as part of my year 12 thesis.
 
+[`💓 PaceKeeper`][project:pacekeeper] Android app supporting long covid and ME/CFS patients.
+
 [`🚁 Quadstorm`][project:quadstorm] Small quadcopter project for our robotics class.
 
 <br/>
@@ -83,6 +85,7 @@ todo!("Finish profile README.md");
 
 [project:htwk-calendar]: https://github.com/creatorsiso/htwk-calendar
 [project:rym]: https://github.com/creatorsiso/rym
+[project:pacekeeper]: https://github.com/creatorsiso/PaceKeeper
 [project:quadstorm]: https://github.com/creatorsiso/quadstorm
 [project:stringx]: https://github.com/creatorsiso/stringx
 [project:tiny-calc]: https://github.com/creatorsiso/tiny-calc
