@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 Heyy ✌️,
 
 ```rust
-todo!("Finish profile README.md");
+// Currently in a pretty good state :]
+// todo!("Finish profile README.md");
 ```
 
 **I want to build software the you can love because it –**
